@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/saksham_verma9" target="blank"><img src="https://img.shields.io/twitter/follow/saksham_verma9?logo=twitter&style=for-the-badge" alt="saksham_verma9" /></a> </p>
 
-- 🔭 I’m currently working on **Recipe Hub**
+- 🔭 I’m currently working on **Blogger**
 
 - 🌱 I’m currently learning **React,NextJs**
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **sakshamvrma9@gmail.com**
+- 📫 How to reach me **sakshamvrma33@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
